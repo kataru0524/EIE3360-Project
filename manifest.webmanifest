@@ -1,0 +1,15 @@
+{
+    "name": "Independence Chronicles: Conquer the Revolution",
+    "short_name": "Independence Chronicles: Conquer the Revolution",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "EIE3360 Project - Group 5",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
